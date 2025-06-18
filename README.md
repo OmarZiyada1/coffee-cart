@@ -1,3 +1,5 @@
+Install node on your Device
+npm install
 npm install --save-dev vitest vue-test-utils @vue/test-utils
 npm run test
 [![Netlify Status](https://api.netlify.com/api/v1/badges/626af698-2379-4cfc-888c-3c502fad8f08/deploy-status)](https://app.netlify.com/sites/coffee-cart/deploys)
